@@ -9,7 +9,7 @@ HITBOX_OFFSET = {
 	'grass': -10,
 	'invisible': 0}
 
-init_path = 'C:/Users/ASUS/Documents/Programming/Python/Realm of Binusians/'
+init_path = 'CHANGE THIS INTO YOUR FILE DIRECTORY'
 
 #ui
 BAR_HEIGHT = 20
